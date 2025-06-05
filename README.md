@@ -4,6 +4,9 @@
 
 ![Image](https://github.com/user-attachments/assets/8313f8f7-22e7-45f4-8dc7-3ca18a3d9a40)
 
+![Screenshot 2025-06-05 162941](https://github.com/user-attachments/assets/f3ad1779-8b89-4922-8cf0-3f080c1fc815)
+
+
 ## 🧾 Overview
 
 This project presents an interactive sales dashboard built using **Power BI**, focused on analyzing the Superstore dataset to derive business insights and forecast future sales trends. The dashboard includes multiple pages, KPI tracking, time series charts, and a forecasting navigation panel to assist business stakeholders in decision-making.
